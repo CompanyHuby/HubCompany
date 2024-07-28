@@ -1,0 +1,1 @@
+AOS.init({ offset: 150, delay: 0, duration: 1500, easing: 'ease', once: true, mirror: true, anchorPlacement: 'top-bottom', });
